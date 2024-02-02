@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmu6q6009nkmujglmrog",
+  "parentID": "mig_cmu6q1809nkmujglmrng",
+  "checksum": "1:bc05c473b0eb1408aaccbecc63648fbc7dcb087dad85ed9795f5838368ef8cc6",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "entries"
+      }
+    }
+  ]
+}

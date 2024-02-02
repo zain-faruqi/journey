@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Zain-Faruqi-s-workspace-f17jpn.us-east-1.xata.sh/db/journey",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
